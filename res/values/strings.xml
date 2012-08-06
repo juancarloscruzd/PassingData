@@ -1,0 +1,14 @@
+<resources>
+
+    <string name="app_name">PassingData</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_second">SecondActivity</string>
+	<string name="segunda_vista">Pasar a otra vista</string>
+	
+	<!-- Controles -->
+	<string name="string_directo">Escribe algo</string>
+	<string name="bol_check">Seleccione</string>
+	<string name="lista_personas">Lista de Personas</string>
+</resources>
